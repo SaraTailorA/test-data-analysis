@@ -35,11 +35,11 @@ Identifying high-value customers can support customer retention strategies and h
 Revenue is relatively balanced across the four regions:
 
 | Region | Revenue Share |
-|---|---:|
-| West | 26.33% |
-| North | 25.08% |
-| South | 24.40% |
-| East | 24.19% |
+| ------ | ------------: |
+| West   |        26.33% |
+| North  |        25.08% |
+| South  |        24.40% |
+| East   |        24.19% |
 
 The **West** region has the highest revenue share at 26.33%, while the East has the lowest at 24.19%.
 
@@ -54,18 +54,6 @@ The Year-over-Year Revenue Growth analysis shows that revenue experienced both p
 The most significant negative variation occurs in **2035**, where revenue decreases substantially compared with the previous year.
 
 Year-over-year analysis provides a useful indicator for identifying periods of growth and decline and can help determine when additional business investigation is required.
-
----
-
-### 5. Delivery Time vs. Customer Rating
-
-The scatter plot compares average delivery time with average customer rating across customers.
-
-The distribution of points does not show a strong or obvious linear relationship between delivery time and customer rating.
-
-This suggests that delivery time alone may not be sufficient to explain differences in customer satisfaction. Other factors, such as region, product category, payment method, or other customer characteristics, could be analyzed in a deeper study.
-
----
 
 ## Overall Conclusion
 
