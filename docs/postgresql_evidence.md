@@ -28,4 +28,4 @@
 
 ## PostgreSQL Evidence
 
-![PostgreSQL tables and row counts](postgresql_evidence.jpeg)
+![PostgreSQL tables and row counts](images/postgresql_evidence.jpeg)
