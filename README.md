@@ -38,7 +38,7 @@ The Power BI dashboard answers:
 
 ### Load
 
-- PostgreSQL database: `ecommerce_etl`
+- PostgreSQL database: `ecommerce`
 - Schema: `public`
 
 Tables:
